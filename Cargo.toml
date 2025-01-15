@@ -1,0 +1,10 @@
+[package]
+name = "feldwm"
+version = "0.0.1"
+edition = "2021"
+description = "window manager for the arcane"
+license = "MIT"
+authors = ["felden"]
+repository = "https://github.com/feldenserra/feldwm"
+
+[dependencies]
